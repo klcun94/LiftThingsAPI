@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{35A07AAD-FE61-4B54-BF23-784290E40C87}|Default">
+  <MonoDevelop.Ide.ItemProperties.LiftThingsAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LiftThingsAPI.Core/Services/IExerciseService.cs">
+    <Files>
+      <File FileName="LiftThingsAPI.Core/Services/SetService.cs" Line="24" Column="24" />
+      <File FileName="LiftThingsAPI.Core/Services/RoutineService.cs" Line="18" Column="13" />
+      <File FileName="LiftThingsAPI.Core/Services/ExerciseService.cs" Line="7" Column="36" />
+      <File FileName="LiftThingsAPI.Infrastructure/Data/ExerciseRepository.cs" Line="22" Column="38" />
+      <File FileName="LiftThingsAPI.Core/Services/IExerciseRepository.cs" Line="14" Column="59" />
+      <File FileName="LiftThingsAPI.Core/Services/IExerciseService.cs" Line="13" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LiftThingsAPI" expanded="True">
+            <Node name="LiftThingsAPI" expanded="True">
+              <Node name="ApiModels" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="LiftThingsAPI.Core" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="IExerciseService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="LiftThingsAPI.Infrastructure" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

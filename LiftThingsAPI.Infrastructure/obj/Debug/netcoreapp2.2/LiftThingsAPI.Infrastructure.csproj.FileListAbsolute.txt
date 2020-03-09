@@ -1,0 +1,13 @@
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/obj/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.csprojAssemblyReference.cache
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/obj/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/obj/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.AssemblyInfo.cs
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/bin/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.deps.json
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/bin/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.runtimeconfig.json
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/bin/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.runtimeconfig.dev.json
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/bin/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.dll
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/bin/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.pdb
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/bin/Debug/netcoreapp2.2/LiftThingsAPI.Core.dll
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/bin/Debug/netcoreapp2.2/LiftThingsAPI.Core.pdb
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/obj/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.csproj.CopyComplete
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/obj/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.dll
+/Users/kendall/Documents/DevFolder/LiftThingsAPI/LiftThingsAPI.Infrastructure/obj/Debug/netcoreapp2.2/LiftThingsAPI.Infrastructure.pdb
